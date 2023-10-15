@@ -2633,7 +2633,15 @@
                 },
                 {
                     "name": "SWISS (planned livery)",
-                    "texture: [
+                    "texture": [
+                        "https://raw.githubusercontent.com/RichFlight22/GEOFS-LiverySelector/main/liveries/airbus_a350-900/a350-900.png",
+                        "https://raw.githubusercontent.com/RichFlight22/GEOFS-LiverySelector/main/liveries/airbus_a350-900/a350-900.png",
+                        "https://raw.githubusercontent.com/RichFlight22/GEOFS-LiverySelector/main/liveries/airbus_a350-900/a350-900.png",
+                        "https://raw.githubusercontent.com/RichFlight22/GEOFS-LiverySelector/main/liveries/airbus_a350-900/a350-900.png",
+                        "https://raw.githubusercontent.com/RichFlight22/GEOFS-LiverySelector/main/liveries/airbus_a350-900/a350-900.png",
+                        "https://raw.githubusercontent.com/RichFlight22/GEOFS-LiverySelector/main/liveries/airbus_a350-900/a350-900.png",
+                        "https://raw.githubusercontent.com/RichFlight22/GEOFS-LiverySelector/main/liveries/airbus_a350-900/a350-900.png",
+                        "https://raw.githubusercontent.com/RichFlight22/GEOFS-LiverySelector/main/liveries/airbus_a350-900/a350-900.png",
                         "https://raw.githubusercontent.com/RichFlight22/GEOFS-LiverySelector/main/liveries/airbus_a350-900/a350-900.png"
                     ]
                 },
