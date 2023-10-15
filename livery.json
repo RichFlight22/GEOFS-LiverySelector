@@ -2632,6 +2632,12 @@
                     ]
                 },
                 {
+                    "name": "SWISS (planned livery)",
+                    "texture: [
+                        "https://raw.githubusercontent.com/RichFlight22/GEOFS-LiverySelector/main/liveries/airbus_a350-900/a350-900.png"
+                    ]
+                },
+                {
                     "name": "Finnair (Marimekko Kivet design)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-900/finnairdotted.png",
