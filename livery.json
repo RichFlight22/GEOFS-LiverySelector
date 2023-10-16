@@ -441,6 +441,12 @@
                     ]
                 },
                 {
+                    "name": "Asiana Airlines",
+                    "texture": [
+                        "<https://i.ibb.co/T1hH0yh/a380.jpg"
+                    ]
+                },
+                {
                     "name": "Lufthansa (new design)",
                     "texture": [
                         "https://i.ibb.co/6DXstZF/lufthansa.jpg"
