@@ -7909,7 +7909,7 @@
                 },
                 {
                     "name": "Lufthansa (old)"
-                    "texture: [
+                    "texture": [
                         "https://raw.githubusercontent.com/RichFlight22/GEOFS-LiverySelector-TEST/main/liveries/lufthansa%20a321neo.png"
                     ]
                 },
