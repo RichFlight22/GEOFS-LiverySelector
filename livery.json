@@ -7908,6 +7908,12 @@
                     ]
                 },
                 {
+                    "name": "Lufthansa (old)"
+                    "texture: [
+                        "https://raw.githubusercontent.com/RichFlight22/GEOFS-LiverySelector-TEST/main/liveries/lufthansa%20a321neo.png"
+                    ]
+                },
+                {
                     "name": "Aegean",
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/7cp11_aeg.jpg"
